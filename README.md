@@ -5,3 +5,8 @@
 
 # 00 Calculator (Calculadora)
 ![Screen](/src/calculadora.gif)
+
+####  Technologies.
+- Html
+- CSS3
+- Javascript
