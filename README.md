@@ -3,6 +3,5 @@
 ##  Description
 #### Developed projects, practice of logic in programming and those based on Javascript
 
-# Calculator (Calculadora)
-###   Screen 
+# 00 Calculator (Calculadora)
 ![Screen](/src/calculadora.gif)
