@@ -12,4 +12,5 @@
 - Javascript
 
 # 01 let's count (Vamos contar)
-<img src="Mini Projetos- Iniciante Js_Contador/src/vamosContar.gif"/>
+![Screen](/assets/vamosContar.gif)
+
