@@ -5,7 +5,6 @@
 
 # 00 Calculator (Calculadora)
 ![Screen](/src/calculadora.gif)
-
 ####  Technologies.
 - Html
 - CSS3
@@ -13,4 +12,7 @@
 
 # 01 let's count (Vamos contar)
 ![Screen](/assets/vamosContar.gif)
-
+####  Technologies.
+- Html
+- CSS3
+- Javascript
