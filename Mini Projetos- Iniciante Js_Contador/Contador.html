@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contador</title>
+    <link rel="stylesheet" href="estilo.css">
+    <script src="script.js" defer></script>
+</head>
+<body onload="carregarHora()">
+    <header>
+        <h1>Vamos Contar</h1>   
+    </header>
+    <section>
+        
+   <div id="dados">  
+<p>Inico <input type="number" name="inicio" id="txtInicio"></p>
+<p>Fim <input type="number" name="fim" id="txtFim"></p>
+<p>Passo <input type="number" name="passo" id="txtPasso"></p>
+<p><input type="button" value="Contar" onclick="contar()"></p>
+</div>
+<div id="res">Preparando a Contagem</div>
+
+    </section>
+    <footer>
+<p>&copy; Juan Vitor   </p>
+<img src="face.png">
+<img src="what.png">
+<img src="git.png">
+    </footer>
+    <div id="tempo">
+        <div id="hora"></div>
+        <div id="min"></div>
+    </div>
+</body>
+</html>

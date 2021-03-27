@@ -1,0 +1,31 @@
+body{
+background: rgb(155, 205, 252);
+font: normal 15pt;
+
+}
+
+header{
+color: white;
+text-align: center;
+}
+section{
+background: white;
+padding: 20px;
+border-radius: 10px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+
+} 
+ 
+
+footer{
+    color: rgba(109, 7, 134, 0.932);
+    font-size: 16pt;
+    font-style: italic;
+    text-align: center;
+}
+div #tempo{
+    text-align: right;
+    color: white;
+}
