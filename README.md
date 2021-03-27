@@ -12,4 +12,4 @@
 - Javascript
 
 # 01 let's count(Vamos contar)
-![Screen](Mini Projetos- Iniciante Js_Contador/src/vamosContar.gif)
+![Screen](/Mini Projetos- Iniciante Js_Contador/src/vamosContar.gif)
