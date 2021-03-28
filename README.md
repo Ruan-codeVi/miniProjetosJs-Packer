@@ -3,14 +3,17 @@
 ##  Description
 #### Developed projects, practice of logic in programming and those based on Javascript
 
-# 00 Calculator (Calculadora)
+# 00 Digital clock (Relogio digital)
+![Screen](/assetsRelog/greenBay.gif)
+
+# 01 Calculator (Calculadora)
 ![Screen](/src/calculadora.gif)
 ####  Technologies.
 - Html
 - CSS3
 - Javascript
 
-# 01 let's count (Vamos contar)
+# 02 let's count (Vamos contar)
 ![Screen](/assets/vamosContar.gif)
 ####  Technologies.
 - Html
