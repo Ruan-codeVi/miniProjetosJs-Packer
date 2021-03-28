@@ -3,6 +3,8 @@
 ##  Description
 #### Developed projects, practice of logic in programming and those based on Javascript
 
+# Digital clock (Relogio digital)
+
 # 01 Calculator (Calculadora)
 ![Screen](/src/calculadora.gif)
 ####  Technologies.
