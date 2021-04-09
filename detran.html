@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleDetran.css">
+    <script src="scriptDetran.js"></script>
+    <title>Sistema de multa</title>
+</head>
+<body>
+    <header><h1>DETRAN</h1></header>
+    <section>
+        <div>
+Velocidade Atual <input type="number" name="velocAtual" id="txtvelocAtual"> KM/h
+<p> Estava usando cinto de segurança?<input type="radio" name="rdcin" id="rdS" checked>
+<label for="rdcin">Sim</label>
+<input type="radio" name="rdcin" id="rdN">
+<label for="rdcin">Não</label></p>
+<p>Possui CNH Válida?<input type="radio" name="rdcnh" id="rdS" checked>
+<label for="rdcnh">Sim</label>
+<input type="radio" name="rdcnh" id="rdN">
+<label for="rdcnh">Não</label></p>
+<p><input class="btn" type="button" value="Verificar" onclick="verificar()"></p>
+        </div>
+        <div id="res">
+<p>* Analisando...</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; DETRAN- Departamento de Trânsito Estudal   </p>
+    </footer>
+</body>
+</html>

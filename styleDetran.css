@@ -1,0 +1,40 @@
+body{
+    background: rgb(191, 252, 155);
+    font: normal 20pt;
+    
+    }
+    
+    header{
+    color: rgb(32, 17, 243);
+    text-align: center;
+    }
+    section{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 450px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+    
+    }div{
+        text-align: center;
+    }
+    .btn{
+        background:royalblue;
+        border-radius: 30px;
+        border: none;
+        border-bottom: solid 3px green;
+        cursor: pointer;
+        font-weight: bold;
+        transition: all .3s;
+        color: white;
+        padding: 10px;
+        outline: none;
+    }
+    .btn:hover{
+        background-color: orange;
+    }
+    
+     footer{
+        text-align: center;
+    }
