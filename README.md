@@ -9,7 +9,7 @@
 - CSS3
 - Javascript
 
-# 01 Fines system
+# 01 Fines system DETRAN ( Sistema de multas DETRAN )
 ![Screen](/assets1/detran.gif)
 
 # 02 Calculator ( Calculadora )
