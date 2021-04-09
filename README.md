@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# miniProjetosJs-Packer 🚧
+# MiniProjetos.Js-Packer 🚧
 
 ##  Description
 #### Develop small projects to practice logic in programming using and combining different technologies
