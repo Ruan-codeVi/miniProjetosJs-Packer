@@ -1,3 +1,5 @@
+<div align="center"> 
+  
 # miniProjetosJs-Packer 🚧
 
 ##  Description
@@ -29,3 +31,5 @@
 - Html
 - CSS3
 - Javascript
+
+</div> </br> 
