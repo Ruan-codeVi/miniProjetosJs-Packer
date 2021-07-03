@@ -25,7 +25,7 @@
  Html</br> 
  CSS3</br> 
  Javascript</br> 
-# 03 let's count ( Vamos contar )
+# 03 let's count ( Vamos contar! )
 ![Screen](/assets/vamosContar.gif)
 ####  Technologies:
  Html</br> 
